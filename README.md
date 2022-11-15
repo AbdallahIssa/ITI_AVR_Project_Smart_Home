@@ -1,9 +1,11 @@
 # ITI Smart Home with AVR
 
+> Live demo [_here_](https://youtu.be/0O8kt2rJCtU)
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
+* [Screenshots](#screenshots)
 * [Usage](#usage)
 * [Contact](#contact)
 
@@ -27,6 +29,15 @@
 - Simulation IDE: proteus.
 - The MCAL drivers of the Atmega32 are written by our team with Cpp for Embedded for clean and Extensible Code.
 - All sensors have their drivers written by our team and implemented in the HAL layer.
+
+
+
+## Screenshots
+
+![System overall schema](https://user-images.githubusercontent.com/41482404/201833474-ebe98d70-4f52-439d-af29-841c713ea46d.png)
+![System Simulation on proteus](https://user-images.githubusercontent.com/41482404/201833735-6761a217-a539-464a-8a0c-c802a83a8355.jpeg)
+
+
 
 
 ### Usage
