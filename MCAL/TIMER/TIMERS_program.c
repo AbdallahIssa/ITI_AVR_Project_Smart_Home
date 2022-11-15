@@ -7,10 +7,6 @@
 
 
 
-
-
-
-
 static void (*GS_TIMER0_OVF_CallBack)(void);
 static void (*GS_TIMER0_COM_CallBack)(void);
 static void (*GS_TIMER1_OVF_CallBack)(void);
