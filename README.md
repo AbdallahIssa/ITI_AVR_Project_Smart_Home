@@ -1,6 +1,6 @@
 # ITI Smart Home with AVR
 
-> Live demo [_here_](https://youtu.be/0O8kt2rJCtU)
+> Live demo [_here_](https://youtu.be/IB1vBMZYJQU)
 
 ## Table of Contents
 * [General Info](#general-information)
