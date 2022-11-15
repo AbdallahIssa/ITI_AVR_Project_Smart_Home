@@ -27,7 +27,7 @@
 - Microcontroller : Atmega32 .
 - IDE: Eclipse.
 - Simulation IDE: proteus.
-- The MCAL drivers of the Atmega32 are written by our team with Cpp for Embedded for clean and Extensible Code.
+- The MCAL drivers of the Atmega32 are written by our team for clean and Extensible Code.
 - All sensors have their drivers written by our team and implemented in the HAL layer.
 
 
