@@ -33,8 +33,10 @@
 
 
 ## Screenshots
-
+- System overall schema:
 ![System overall schema](https://user-images.githubusercontent.com/41482404/201833474-ebe98d70-4f52-439d-af29-841c713ea46d.png)
+
+- System Simulation on proteus
 ![System Simulation on proteus](https://user-images.githubusercontent.com/41482404/201833735-6761a217-a539-464a-8a0c-c802a83a8355.jpeg)
 
 
