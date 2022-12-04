@@ -16,9 +16,9 @@
 -	If right: the message: “Access is Authorized ^_^, Welcome to your Smart Home” will be displayed on LCD and the door will be opened.
 -	If wrong: try again (only 3 attempts are allowed) after that, the buzzer will beep, and LCD shows a message “Access is denied!”.
 -	After right password is entered, the user will have the ability to do the following:
-  *	Turn the air conditioning on an off.
-  *	See and monitor the Temperature of the house (shown on LCD).
-  *	If temperature is higher than or equal to 40°C, automatically the AC will be turned on.
+    *	Turn the air conditioning on an off.
+    *	See and monitor the Temperature of the house (shown on LCD).
+    *	If temperature is higher than or equal to 40°C, automatically the AC will be turned on.
 
 
 ### Technologies Used
